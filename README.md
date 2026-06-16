@@ -3,7 +3,7 @@
 > Marketing Mix Modeling bayesiano que mede o ROI causal de cada canal de mídia,
 > modela retornos decrescentes e otimiza a alocação do orçamento, com incerteza.
 
-**🔗 [Teste ao vivo aqui](COLE_O_LINK)**
+**🔗 [Teste ao vivo aqui](https://huggingface.co/spaces/Weegor/otimizador-marketing)**
 
 ## Por que este projeto é diferente
 1. **Inferência bayesiana, não regressão ingênua.** Cada efeito vem com intervalo de
