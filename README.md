@@ -1,15 +1,3 @@
----
-title: Otimizador de Orcamento de Marketing
-emoji: 💸
-colorFrom: purple
-colorTo: blue
-sdk: docker
-app_port: 8501
-pinned: false
-license: mit
-short_description: MMM bayesiano que otimiza alocacao de budget de marketing
----
-
 # 💸 Para onde mando o próximo real de marketing?
 
 > Marketing Mix Modeling bayesiano que mede o ROI causal de cada canal de mídia,
